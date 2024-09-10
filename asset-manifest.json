@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb7928ff.css",
+    "main.js": "/static/js/main.8da692ca.js",
+    "static/js/453.b9ee069a.chunk.js": "/static/js/453.b9ee069a.chunk.js",
+    "static/media/MyResume-1.jpg": "/static/media/MyResume-1.b0ee73b6dd0b061e94ca.jpg",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.e73e917f7bfa48666e00.ttf",
+    "static/media/profile.jpg": "/static/media/profile.13d59fec2b9e022db0c8.jpg",
+    "static/media/user.jpg": "/static/media/user.7d65733ec6630d6d5507.jpg",
+    "static/media/iconLinkedin.gif": "/static/media/iconLinkedin.e5049dad3d3a9292a5bc.gif",
+    "static/media/B-NAZANIN.TTF": "/static/media/B-NAZANIN.d7478a9ecad2d8496d98.TTF",
+    "static/media/iconWhatsap.gif": "/static/media/iconWhatsap.257563800ca777a2d5d6.gif",
+    "static/media/iconInstagram.gif": "/static/media/iconInstagram.dc642385bdf6950ae3e0.gif",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/iconTelegram.svg": "/static/media/iconTelegram.89d23a21f9cbdc309acc7e6db5d0a5fc.svg",
+    "index.html": "/index.html",
+    "main.fb7928ff.css.map": "/static/css/main.fb7928ff.css.map",
+    "main.8da692ca.js.map": "/static/js/main.8da692ca.js.map",
+    "453.b9ee069a.chunk.js.map": "/static/js/453.b9ee069a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb7928ff.css",
+    "static/js/main.8da692ca.js"
+  ]
+}
